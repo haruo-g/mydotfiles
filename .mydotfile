@@ -1,0 +1,9 @@
+# PATH
+export PATH="$HOME/.local/bin:$PATH"
+
+# Aliases
+alias exa="exa --icons -l -a"
+alias rzi="find . -name '*Zone.Identifier' -type f -delete"
+
+# Para iniciar o Docker Engine, execute:
+# sudo service docker start

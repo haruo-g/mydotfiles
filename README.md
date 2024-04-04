@@ -1,2 +1,2 @@
 # mydotfiles
-repositório com meus dotfiles pessoais.
+repositório com os meus dotfiles pessoais.

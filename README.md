@@ -1,2 +1,2 @@
 # mydotfiles
-repository with all my configuration dotfiles
+repositório com meus dotfiles pessoais.
